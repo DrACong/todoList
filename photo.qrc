@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icon.png</file>
+        <file>src/green.png</file>
+        <file>src/background.gif</file>
+        <file>src/background.png</file>
+        <file>src/logo.gif</file>
+        <file>src/book.ico</file>
+        <file>src/close.png</file>
+        <file>src/open.png</file>
+    </qresource>
+</RCC>
